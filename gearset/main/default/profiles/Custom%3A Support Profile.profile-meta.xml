@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?><Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <custom>true</custom>
-    <userLicense>Salesforce</userLicense>
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.NumberofLocations__c</field>
@@ -14,6 +13,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Account.SalesDemoField__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.cvv__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <objectPermissions>
@@ -34,4 +38,5 @@
         <object>Document</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
+    <userLicense>Salesforce</userLicense>
 </Profile>
