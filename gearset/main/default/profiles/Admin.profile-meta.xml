@@ -138,7 +138,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>true</editable>
+        <editable>HEy</editable>
         <field>Lead.CurrentGenerators__c</field>
         <readable>false</readable>
     </fieldPermissions>
