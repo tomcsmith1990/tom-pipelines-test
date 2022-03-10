@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>CustomerPriority__c</fullName>
+    <fullName>Country__c</fullName>
     <externalId>false</externalId>
-    <label>Customer Priority</label>
+    <label>Country</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Picklist</type>
@@ -10,24 +10,19 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>High</fullName>
+                <fullName>a</fullName>
                 <default>false</default>
-                <label>High</label>
+                <label>a</label>
             </value>
             <value>
-                <fullName>Low</fullName>
+                <fullName>b</fullName>
                 <default>false</default>
-                <label>Low</label>
+                <label>b</label>
             </value>
             <value>
-                <fullName>Medium</fullName>
+                <fullName>c</fullName>
                 <default>false</default>
-                <label>Medium</label>
-            </value>
-            <value>
-                <fullName>Platinum</fullName>
-                <default>false</default>
-                <label>Platinum</label>
+                <label>c</label>
             </value>
         </valueSetDefinition>
     </valueSet>
