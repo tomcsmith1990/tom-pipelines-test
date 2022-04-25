@@ -87,6 +87,10 @@
                 <behavior>Edit</behavior>
                 <field>MyNewField__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>NewNewNew__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
