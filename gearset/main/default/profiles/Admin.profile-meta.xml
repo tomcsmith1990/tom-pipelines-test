@@ -5,7 +5,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>ChangePasswordController</apexClass>
-        <enabled>true</enabled>
+        <enabled>xyz</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>FailingTests</apexClass>
@@ -25,7 +25,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>ChangePasswordControllerTest</apexClass>
-        <enabled>true</enabled>
+        <enabled>123</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>PassingTests</apexClass>
