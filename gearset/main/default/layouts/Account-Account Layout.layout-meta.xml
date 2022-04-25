@@ -45,6 +45,10 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>hed__Billing_Address_Inactive__c</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>AnnualRevenue</field>
             </layoutItems>
             <layoutItems>
@@ -111,6 +115,10 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
+                <field>Sic</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
                 <field>Website</field>
             </layoutItems>
             <layoutItems>
@@ -120,10 +128,6 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>NumberOfEmployees</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Sic</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
