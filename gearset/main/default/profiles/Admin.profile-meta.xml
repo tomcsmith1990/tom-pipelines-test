@@ -29,7 +29,7 @@
     </classAccesses>
     <classAccesses>
         <apexClass>PassingTests</apexClass>
-        <enabled>true</enabled>
+        <enabled>123</enabled>
     </classAccesses>
     <applicationVisibilities>
         <application>standard__Platform</application>
