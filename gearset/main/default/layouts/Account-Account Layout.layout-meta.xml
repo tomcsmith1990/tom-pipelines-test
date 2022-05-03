@@ -335,6 +335,11 @@
             <sortOrder>27</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
+            <actionName>NewGroup</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>28</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
             <actionName>JigsawSearch</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>17</sortOrder>
