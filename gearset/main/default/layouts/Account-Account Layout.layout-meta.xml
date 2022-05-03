@@ -335,7 +335,16 @@
             <sortOrder>27</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
+            <actionName>NewGroup</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>28</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
             <actionName>NewAccount</actionName>
+            <actionType>QuickAction</actionType>
+            <sortOrder>28</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
             <actionType>QuickAction</actionType>
             <sortOrder>28</sortOrder>
         </platformActionListItems>
