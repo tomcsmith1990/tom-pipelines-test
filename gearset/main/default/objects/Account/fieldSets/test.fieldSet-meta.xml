@@ -12,6 +12,11 @@
         <isRequired>false</isRequired>
     </availableFields>
     <availableFields>
+        <field>BillingCity</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </availableFields>
+    <availableFields>
         <field>BillingStreet</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
@@ -28,11 +33,6 @@
     </availableFields>
     <description>test</description>
     <displayedFields>
-        <field>BillingCity</field>
-        <isFieldManaged>false</isFieldManaged>
-        <isRequired>false</isRequired>
-    </displayedFields>
-    <displayedFields>
         <field>BillingPostalCode</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
@@ -44,6 +44,11 @@
     </displayedFields>
     <displayedFields>
         <field>BillingCountry</field>
+        <isFieldManaged>false</isFieldManaged>
+        <isRequired>false</isRequired>
+    </displayedFields>
+    <displayedFields>
+        <field>NumberOfEmployees</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
     </displayedFields>
