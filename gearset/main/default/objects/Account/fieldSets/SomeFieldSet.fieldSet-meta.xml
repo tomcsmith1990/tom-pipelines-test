@@ -16,12 +16,12 @@
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
     </availableFields>
-    <description>This is used somewhere</description>
-    <displayedFields>
+    <availableFields>
         <field>ShippingCity</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
-    </displayedFields>
+    </availableFields>
+    <description>This is used somewhere</description>
     <displayedFields>
         <field>ShippingCountry</field>
         <isFieldManaged>false</isFieldManaged>
