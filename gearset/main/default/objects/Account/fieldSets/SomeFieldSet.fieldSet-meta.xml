@@ -18,11 +18,6 @@
     </availableFields>
     <description>This is used somewhere</description>
     <displayedFields>
-        <field>ShippingCity</field>
-        <isFieldManaged>false</isFieldManaged>
-        <isRequired>false</isRequired>
-    </displayedFields>
-    <displayedFields>
         <field>ShippingCountry</field>
         <isFieldManaged>false</isFieldManaged>
         <isRequired>false</isRequired>
