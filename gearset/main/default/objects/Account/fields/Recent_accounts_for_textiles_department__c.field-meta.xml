@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Recent_accounts_for_textiles_department__c</fullName>
+    <externalId>false</externalId>
+    <formula>Owner.Department = 'Textiles' &amp;&amp; LastActivityDate &gt; DATE(YEAR(TODAY()), MONTH(TODAY()), DAY(TODAY()) - 7)</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Recent accounts for textiles department</label>
+    <type>Checkbox</type>
+</CustomField>
