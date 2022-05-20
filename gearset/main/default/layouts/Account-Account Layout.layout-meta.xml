@@ -28,10 +28,6 @@
                 <field>Site</field>
             </layoutItems>
             <layoutItems>
-                <behavior>Readonly</behavior>
-                <field>blah__c</field>
-            </layoutItems>
-            <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Type</field>
             </layoutItems>
@@ -116,6 +112,10 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>Fax</field>
+            </layoutItems>
+            <layoutItems>
+                <behavior>Readonly</behavior>
+                <field>blah__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
