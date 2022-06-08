@@ -5,11 +5,11 @@
     </classAccesses>
     <classAccesses>
         <apexClass>ChangePasswordController</apexClass>
-        <enabled>abc</enabled>
+        <enabled>xyz</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>FailingTests</apexClass>
-        <enabled>def</enabled>
+        <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>CustomSiteRegisterController</apexClass>
@@ -25,11 +25,11 @@
     </classAccesses>
     <classAccesses>
         <apexClass>ChangePasswordControllerTest</apexClass>
-        <enabled>true</enabled>
+        <enabled>123</enabled>
     </classAccesses>
     <classAccesses>
         <apexClass>PassingTests</apexClass>
-        <enabled>456</enabled>
+        <enabled>123</enabled>
     </classAccesses>
     <applicationVisibilities>
         <application>standard__Platform</application>
