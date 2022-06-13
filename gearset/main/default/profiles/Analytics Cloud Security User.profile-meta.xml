@@ -2,7 +2,7 @@
     <custom>false</custom>
     <pageAccesses>
         <apexPage>DreamHouseSampleData</apexPage>
-        <enabled>false</enabled>
+        <enabled>true</enabled>
     </pageAccesses>
     <pageAccesses>
         <apexPage>HeatMap</apexPage>
