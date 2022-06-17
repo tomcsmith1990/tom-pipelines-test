@@ -13,11 +13,6 @@
             <operation>equals</operation>
             <valueField>$User.Id</valueField>
         </filterItems>
-        <filterItems>
-            <field>Account.ParentId</field>
-            <operation>equals</operation>
-            <valueField>$Source.Primary_Academic_Program__c</valueField>
-        </filterItems>
         <isOptional>true</isOptional>
     </lookupFilter>
     <trackFeedHistory>true</trackFeedHistory>
