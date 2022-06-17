@@ -18,6 +18,11 @@
             <operation>equals</operation>
             <valueField>$Source.Primary_Academic_Program__c</valueField>
         </filterItems>
+        <filterItems>
+            <field>$Source.hed__Deceased__c</field>
+            <operation>equals</operation>
+            <value>False</value>
+        </filterItems>
         <isOptional>true</isOptional>
     </lookupFilter>
     <trackFeedHistory>true</trackFeedHistory>
