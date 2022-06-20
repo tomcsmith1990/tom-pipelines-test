@@ -284,6 +284,11 @@
             <sortOrder>10</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
+            <actionName>WebsiteHighlightAction</actionName>
+            <actionType>ProductivityAction</actionType>
+            <sortOrder>25</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
             <actionName>SendEmail</actionName>
             <actionType>QuickAction</actionType>
             <sortOrder>11</sortOrder>
@@ -327,11 +332,6 @@
             <actionName>Share</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>20</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>WebsiteHighlightAction</actionName>
-            <actionType>ProductivityAction</actionType>
-            <sortOrder>25</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>AccountHierarchy</actionName>
