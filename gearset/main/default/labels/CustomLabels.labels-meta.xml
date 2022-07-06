@@ -7,6 +7,13 @@
         <value>Change</value>
     </labels>
     <labels>
+        <fullName>TestLabel</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>TestLabel</shortDescription>
+        <value>123</value>
+    </labels>
+    <labels>
         <fullName>TestLabel2</fullName>
         <language>en_US</language>
         <protected>true</protected>
