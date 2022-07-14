@@ -2,9 +2,9 @@
     <labels>
         <fullName>Label1</fullName>
         <language>en_US</language>
-        <protected>true</protected>
+        <protected>false</protected>
         <shortDescription>Label1</shortDescription>
-        <value>SomeValue</value>
+        <value>Change</value>
     </labels>
     <labels>
         <fullName>TestLabel</fullName>
