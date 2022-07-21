@@ -1,6 +1,6 @@
 global class AdvancedDataManipulator implements Schedulable {
 
-    Integer AccountCount = 19;
+    Integer AccountCount = 17;
     Integer CaseCount = 0;
     Integer ContactCount = 0;
     Integer LeadCount = 0;
